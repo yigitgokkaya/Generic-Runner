@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Gokay/Scenes/MENUU.unity
+    guid: e91dd3127fb26684eb22529b117c0eb1
+  - enabled: 1
+    path: Assets/Gokay/Scenes/NEWPLAYERSCENE 1.unity
+    guid: c508b871a2ea80041904d62c9a0fce7f
+  m_configObjects: {}
